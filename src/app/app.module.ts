@@ -11,6 +11,7 @@ import { PipeComponent } from './pipe/pipe.component';
 import { PipePipe } from './pipe/pipe.pipe';
 
 @NgModule({
+  
   declarations: [
     AppComponent,
     TwoWayDataBindingComponent,
@@ -19,7 +20,7 @@ import { PipePipe } from './pipe/pipe.pipe';
     PipeComponent,
     PipePipe
   ],
-  
+
   imports: [
     BrowserModule,
     AppRoutingModule,
