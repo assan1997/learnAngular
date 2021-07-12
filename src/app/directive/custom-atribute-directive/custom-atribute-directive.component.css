@@ -1,0 +1,7 @@
+.block{
+    width:30px;
+    height :30px;
+    background :teal;
+    border-radius: 100%;
+    cursor: pointer;
+}
